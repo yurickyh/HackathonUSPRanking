@@ -1,0 +1,103 @@
+Datetime,id,IsSelected,Gender,College,StudentProgram,GraduationYear,NHackathon,Role,HasTeam,TeamMembers,TeamId,TeamSize
+03/11/2016 18:55:05,102,N,M,FEA-RP,Economia Empresarial e Controladoria,Pós-graduação,1,Negócios,Não,,0,1
+12/10/2016 21:01:35,66,S,M,Poli,Engenharia Elétrica,2,2,Desenvolvedor,Sim,"20, 30, 60, 66, 85",5,5
+12/10/2016 21:01:57,45,S,M,Poli,Engenharia Elétrica,3,0,Desenvolvedor,Sim,"43, 45, 80",10,3
+12/10/2016 21:02:06,20,S,M,Poli,Engenharia Elétrica,2,2,Desenvolvedor,Sim,"20, 30, 60, 66, 85",5,5
+12/10/2016 21:02:17,36,S,M,EACH,Bacharelado em Sistemas de Informação,1,1,Designer,Não,,0,1
+12/10/2016 21:02:21,60,S,M,Poli,Engenharia Elétrica,2,1,Desenvolvedor,Sim,"20, 30, 60, 66, 85",5,5
+12/10/2016 21:02:37,40,S,M,EESC,Engenharia de Produção,5,0,Negócios,Sim,"2, 40, 86, 89",4,4
+12/10/2016 21:02:40,55,S,M,IME,Bacharelado em Ciência da Computação,3,0,Desenvolvedor,Sim,,0,1
+12/10/2016 21:02:47,90,S,F,FEA,Administração,3,0,Negócios,Não,,0,1
+12/10/2016 21:02:49,97,S,M,Poli,Engenharia Elétrica,5,0,Desenvolvedor,Sim,"10, 97",2,2
+12/10/2016 21:02:49,24,S,M,Poli,Engenharia Elétrica,3,1,Desenvolvedor,Sim,"11, 24, 26",3,3
+12/10/2016 21:03:01,56,S,M,EACH,Bacharelado em Sistemas de Informação,2,2,Desenvolvedor,Não,,0,1
+12/10/2016 21:03:06,30,S,M,Poli,Engenharia Elétrica,2,2,Desenvolvedor,Sim,"20, 30, 60, 66, 85",5,5
+12/10/2016 21:03:09,49,S,M,Poli,Engenharia Elétrica,2,0,Desenvolvedor,Sim,"49, 91, 94",11,3
+12/10/2016 21:03:13,85,S,M,Poli,Engenharia Elétrica,2,0,Negócios,Sim,"20, 30, 60, 66, 85",5,5
+12/10/2016 21:03:20,35,S,M,FEA,Adminstração,2,0,Negócios,Não,,0,1
+12/10/2016 21:03:23,10,S,M,Poli,Engenharia Elétrica,5,0,Desenvolvedor,Sim,"10, 97",2,2
+12/10/2016 21:03:24,91,S,M,Poli,Engenharia Elétrica,2,0,Desenvolvedor,Sim,"49, 91, 94",11,3
+12/10/2016 21:03:30,27,S,M,Poli,Engenharia Mecatrônica,3,0,Desenvolvedor,Não,,0,1
+12/10/2016 21:03:37,73,S,M,Poli,Engenharia de Materiais,1,0,Negócios,Sim,"29, 33, 38, 73",7,4
+12/10/2016 21:03:56,18,S,M,Poli,Pós-graduação em Engenharia da Computação,Pós-graduação,0,Desenvolvedor,Não,"7, 16, 18, 37",13,4
+12/10/2016 21:04:01,96,S,M,Poli,Engenharia Mecatrônica,2,0,Negócios,Sim,"34, 72, 96",9,3
+12/10/2016 21:04:13,93,S,M,Poli,Engenharia Ambiental,5,0,Desenvolvedor,Sim,"92, 93",16,2
+12/10/2016 21:04:17,44,S,M,Poli,Pós-doutorado em Engenharia da Produção,2,2,Negócios,Não,,0,1
+12/10/2016 21:04:21,89,S,F,EESC,Engenharia de Produção,5,0,Negócios,Sim,"2, 40, 86, 89",4,4
+12/10/2016 21:04:21,83,S,M,FEA-RP,Economia Empresarial e Controladoria,1,0,Desenvolvedor,Sim,"31, 61, 79, 83",8,4
+12/10/2016 21:04:24,26,S,M,Poli,Engenharia de Produção,5,0,Negócios,Sim,"11, 24, 26",3,3
+12/10/2016 21:04:29,94,S,M,Poli,Engenharia Elétrica,2,1,Desenvolvedor,Sim,"49, 91, 94",11,3
+12/10/2016 21:04:37,31,S,M,FEA-RP,Economia Empresarial e Controladoria,1,0,Negócios,Sim,"31, 61, 79, 83",8,4
+12/10/2016 21:04:44,11,S,M,Poli,Engenharia de Produção,5,0,Negócios,Sim,"11, 24, 26",3,3
+12/10/2016 21:04:47,63,S,F,Poli,MBA - Tecnologia de Software,Pós-graduação,1,Desenvolvedor,Não,,0,1
+12/10/2016 21:05:29,80,S,M,Poli,Engenharia Elétrica,3,0,Desenvolvedor,Sim,"43, 45, 80",10,3
+12/10/2016 21:05:52,8,S,M,IME,Bacharelado em Ciência da Computação,1,0,Desenvolvedor,Sim,"8, 32, 41",14,3
+12/10/2016 21:06:00,9,S,M,IME,Bacharelado em Ciência da Computação,1,1,Desenvolvedor,Sim,"9, 77",15,2
+12/10/2016 21:07:03,32,S,M,IME,Bacharelado em Ciência da Computação,1,0,Desenvolvedor,Sim,"8, 32, 41",14,3
+12/10/2016 21:07:13,79,S,M,FEA-RP,Economia Empresarial e Controladoria,1,0,Negócios,Sim,"31, 61, 79, 83",8,4
+12/10/2016 21:07:19,92,S,M,Poli,Engenharia Elétrica,5,0,Desenvolvedor,Sim,"92, 93",16,2
+12/10/2016 21:07:21,77,S,M,IME,Bacharelado em Ciência da Computação,1,0,Desenvolvedor,Sim,"9, 77",15,2
+12/10/2016 21:07:35,43,S,M,Poli,Engenharia Elétrica,3,1,Desenvolvedor,Sim,"43, 45, 80",10,3
+12/10/2016 21:10:58,29,S,M,Poli,Engenharia da Computação,2,0,Desenvolvedor,Sim,"29, 33, 38, 73",7,4
+12/10/2016 21:11:18,95,S,M,FEA-RP,Economia Empresarial e Controladoria,1,0,Negócios,Não,,0,1
+12/10/2016 21:13:50,51,S,M,Poli,Engenharia Mecatrônica,1,0,Desenvolvedor,Não,,0,1
+12/10/2016 21:15:41,39,S,M,IME,Bacharelado em Matemática Aplicada,3,0,Desenvolvedor,Não,,0,1
+12/10/2016 21:19:48,33,S,M,Poli,Engenharia,1,0,Desenvolvedor,Sim,"29, 33, 38, 73",7,4
+12/10/2016 21:20:15,12,S,M,EESC,Engenharia da Computação,3,2,Desenvolvedor,Não,,0,1
+12/10/2016 21:21:57,58,S,M,IME,Bacharelado em Ciência da Computação,2,2,Desenvolvedor,Não,,0,1
+12/10/2016 21:24:04,47,S,M,FEA-RP,Economia Empresarial e Controladoria,1,0,Negócios,Não,,0,1
+12/10/2016 21:28:48,38,S,M,Poli,Engenharia de Materiais,1,0,Desenvolvedor,Sim,"29, 33, 38, 73",7,4
+12/10/2016 21:37:56,5,S,M,IME,Bacharelado em Ciência da Computação,3,0,Desenvolvedor,Não,,0,1
+12/10/2016 21:38:02,16,S,M,Poli,Pós-graduação em Engenharia da Computação,Pós-graduação,0,Desenvolvedor,Sim,"7, 16, 18, 37",13,4
+12/10/2016 21:40:44,64,S,M,IME,Bacharelado em Ciência da Computação,2,1,Desenvolvedor,Não,,0,1
+12/10/2016 21:48:49,52,S,M,IME,Bacharelado em Ciência da Computação,2,2,Desenvolvedor,Não,,0,1
+12/10/2016 21:58:09,67,S,M,IME,Bacharelado em Ciência da Computação,2,0,Desenvolvedor,Não,,0,1
+12/10/2016 22:01:48,74,S,M,IME,Bacharelado em Ciência da Computação,1,1,Desenvolvedor,Não,,0,1
+12/10/2016 22:06:59,86,S,M,ICMC,Bacharelado em Ciência da Computação,6,0,Desenvolvedor,Sim,"2, 40, 86, 89",4,4
+12/10/2016 22:13:45,87,S,F,ECA,Publicidade e Propaganda,2,0,Designer,Não,,0,1
+12/10/2016 22:13:58,72,N,M,IF,Bacharelado em Física,4,0,Desenvolvedor,Sim,"34, 72, 96",9,3
+12/10/2016 22:24:40,70,N,M,ECA,Relações Públicas,1,0,Negócios,Não,,0,1
+12/10/2016 22:38:48,68,S,F,ECA,Publicidade e Propaganda,1,0,Designer,Não,,0,1
+12/10/2016 22:51:44,57,S,M,FAU,Design,6,1,Designer,Não,,0,1
+12/10/2016 23:32:03,54,N,M,IME,Bacharelado em Ciência da Computação,3,0,Desenvolvedor,Não,,0,1
+12/10/2016 23:40:13,14,N,M,IME,Bacharelado em Ciência da Computação,5,0,Desenvolvedor,Não,,0,1
+13/10/2016 00:10:06,34,S,M,Poli,Engenharia Elétrica,2,0,Desenvolvedor,Sim,"34, 72, 96",9,3
+13/10/2016 00:52:26,59,N,M,IRI,Relações Internacionais,1,0,Políticas Públicas,Não,,0,1
+13/10/2016 01:32:53,81,N,M,IME,Bacharelado em Ciência da Computação,4,0,Desenvolvedor,Não,,0,1
+13/10/2016 02:20:36,98,N,M,Poli,Engenharia Mecatrônica,3,0,Negócios,Sim,"1, 98",1,2
+13/10/2016 02:55:18,62,S,M,Não USP,Bacharelado em Ciência da Computação,2,0,Designer,Não,,0,1
+13/10/2016 06:35:45,42,N,M,EESC,Engenharia da Computação,2,0,Designer,Não,,0,1
+13/10/2016 07:38:23,25,S,M,Não USP,Mestrado em Administração,Pós-graduação,5,Negócios,Sim,,0,1
+13/10/2016 08:07:20,101,N,M,EACH,Gestão de Políticas Públicas ,3,0,Políticas Públicas,Não,,0,1
+13/10/2016 08:58:57,2,S,M,ICMC,Bacharelado em Sistemas de Informação,1,0,Desenvolvedor,Sim,"2, 40, 86, 89",4,4
+13/10/2016 09:08:09,23,N,M,IME,Bacharelado em Ciência da Computação,4,1,Desenvolvedor,Não,,0,1
+13/10/2016 09:10:59,19,N,M,IAG,Bacharelado em Meteorologia,Pós-graduação,0,Desenvolvedor,Não,,0,1
+13/10/2016 09:16:52,21,S,M,IME,Bacharelado em Ciência da Computação,6,0,Desenvolvedor,Não,"21, 82, 84, 100",6,4
+13/10/2016 09:27:03,65,N,M,IME,Bacharelado em Matemática Aplicada e Computacional,3,0,Negócios,Não,,0,1
+13/10/2016 09:36:50,4,N,M,Poli,Engenharia Mecatrônica,2,0,Desenvolvedor,Não,,0,1
+13/10/2016 10:28:28,13,N,M,Poli,Engenharia Mecatrônica,6,0,Desenvolvedor,Sim,,0,1
+13/10/2016 10:58:38,88,N,F,FEA,Economia,2,0,Negócios,Sim,,0,1
+13/10/2016 13:49:50,41,S,M,IME,Bacharelado em Ciência da Computação,1,0,Desenvolvedor,Sim,"8, 32, 41",14,3
+13/10/2016 15:33:37,50,N,M,EESC,Engenharia da Computação,5,0,Desenvolvedor,Sim,,0,1
+13/10/2016 15:57:12,75,N,M,IME,Bacharelado em Ciência da Computação,1,0,Desenvolvedor,Não,,0,1
+13/10/2016 18:04:31,48,N,M,IME,Bacharelado em Ciência da Computação,5,2,Desenvolvedor,Não,,0,1
+13/10/2016 18:23:18,15,N,M,EACH,Bacharelado em Sistemas de Informação,1,0,Desenvolvedor,Não,,0,1
+14/10/2016 00:20:28,71,N,M,IME,Bacharelado em Ciência da Computação,1,0,Desenvolvedor,Não,,0,1
+14/10/2016 11:56:32,53,N,M,IME,Bacharelado em Ciência da Computação,1,0,Desenvolvedor,Não,,0,1
+14/10/2016 15:48:02,76,N,M,Poli,Engenharia da Computação,6,5,Desenvolvedor,Não,,0,1
+14/10/2016 17:04:23,46,S,M,FEA-RP,Economia Empresarial e Controladoria,1,0,Negócios,Não,,0,1
+14/10/2016 18:28:28,61,S,F,FEA-RP,Economia Empresarial e Controladoria,1,0,Desenvolvedor,Sim,"31, 61, 79, 83",8,4
+14/10/2016 18:45:58,82,S,M,IME,Bacharelado em Ciência da Computação,5,0,Desenvolvedor,Sim,"21, 82, 84, 100",6,4
+14/10/2016 22:44:45,17,S,F,FSP,"Mestrado Profissional Ambiente, Saúde e Sustentabilidade",Pós-graduação,1,Designer,Não,,0,1
+15/10/2016 01:19:25,1,N,M,Poli,Engenharia Mecatrônica,3,0,Negócios,Sim,"1, 98",1,2
+15/10/2016 02:00:45,28,N,M,IME,Bacharelado em Matemática Aplicada e Computacional,2,0,Desenvolvedor,Sim,,0,1
+16/10/2016 22:55:31,78,S,F,FAU,Design,4,1,Designer,Não,,0,1
+17/10/2016 10:05:29,84,S,M,IME,Bacharelado em Ciência da Computação,3,0,Desenvolvedor,Sim,"21, 82, 84, 100",6,4
+17/10/2016 17:59:15,6,N,M,Poli,Engenharia da Computação,1,0,Desenvolvedor,Não,,0,1
+17/10/2016 18:17:51,3,N,M,Poli,Pós-graduação em Big Data,Pós-graduação,1,Desenvolvedor,Não,,0,1
+17/10/2016 18:31:54,100,S,M,IME,Bacharelado em Ciência da Computação,6,0,Desenvolvedor,Sim,"21, 82, 84, 100",6,4
+17/10/2016 19:41:50,22,N,M,Poli,Engenharia da Computação,2,0,Negócios,Não,,0,1
+17/10/2016 19:43:33,99,N,M,IME,Bacharelado em Matemática Aplicada e Computacional,1,0,Negócios,Não,"69, 99",12,2
+17/10/2016 20:47:44,37,N,M,IME,Bacharelado em Estatística,1,0,Negócios,Não,"7, 16, 18, 37",13,4
+17/10/2016 21:10:57,7,S,F,IME,Bacharelado em Estatística,1,0,Desenvolvedor,Sim,"7, 16, 18, 37",13,4
+17/10/2016 23:33:49,69,N,M,IME,Bacharelado em Matemática Aplicada e Computacional,1,0,Desenvolvedor,Sim,"69, 99",12,2

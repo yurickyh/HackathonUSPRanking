@@ -1,0 +1,166 @@
+Datetime,id,IsSelected,Gender,College,StudentProgram,GraduationYear,NHackathon,Role,HasTeam,TeamMembers,TeamId,University,TeamSize
+18/10/2017 20:57:02,89,S,M,EACH,Bacharelado em Sistemas de Informação,1,0,Negócios,Sim,"34, 89, 106, 133",16,,4
+18/10/2017 20:59:53,99,S,M,EACH,Bacharelado em Sistemas de Informação,3,2,Desenvolvedor,Sim,"99, 135",33,,2
+18/10/2017 21:02:25,161,S,M,EACH,Pedagogia,3,5,Desenvolvedor,Sim,"10, 161",2,,2
+18/10/2017 21:02:39,34,S,M,EACH,Bacharelado em Sistemas de Informação,1,0,Desenvolvedor,Sim,"34, 89, 106, 133",16,,4
+18/10/2017 21:54:54,62,S,M,EACH,Bacharelado em Sistemas de Informação,2,2,Desenvolvedor,Sim,"62, 118, 123",27,,3
+18/10/2017 21:59:08,133,S,M,EACH,Bacharelado em Sistemas de Informação,1,0,Desenvolvedor,Sim,"34, 89, 106, 133",16,,4
+18/10/2017 22:23:36,5,S,F,EACH,Gestão Ambiental,1,0,Designer,Não,,0,,1
+19/10/2017 18:57:27,24,N,M,EACH,Bacharelado em Sistemas de Informação,2,2,Desenvolvedor,Sim,"24, 48, 67, 164",12,,4
+19/10/2017 19:04:32,164,N,M,EACH,Bacharelado em Sistemas de Informação,2,1,Desenvolvedor,Sim,"24, 48, 67, 164",12,,4
+19/10/2017 19:42:35,67,N,M,EACH,Bacharelado em Sistemas de Informação,2,1,Desenvolvedor,Sim,"24, 48, 67, 164",12,,4
+19/10/2017 21:37:07,48,N,M,EACH,Bacharelado em Sistemas de Informação,2,1,Negócios,Sim,"24, 48, 67, 164",12,,4
+22/10/2017 14:24:29,21,N,M,EACH,Bacharelado em Sistemas de Informação,2,0,Desenvolvedor,Não,,0,,1
+22/10/2017 19:56:18,26,N,M,EACH,Bacharelado em Sistemas de Informação,1,0,Desenvolvedor,Não,,0,,1
+23/10/2017 21:48:48,106,S,M,EACH,Bacharelado em Sistemas de Informação,1,1,Desenvolvedor,Sim,"34, 89, 106, 133",16,,4
+18/10/2017 21:45:12,10,S,M,EACH,Pós-graduação em Sistemas de Informação,Pós-graduação,1,Cientista de Dados,Não,"10, 161",2,,2
+18/10/2017 20:58:35,37,S,M,EESC,Engenharia Elétrica,5,0,Desenvolvedor,Sim,"9, 37, 63, 90",32,,4
+18/10/2017 20:59:33,90,S,M,EESC,Engenharia Elétrica,5,0,Desenvolvedor,Sim,"9, 37, 63, 90",32,,4
+18/10/2017 20:59:40,9,S,M,EESC,Engenharia Elétrica,5,1,Desenvolvedor,Sim,"9, 37, 63, 90",32,,4
+18/10/2017 21:00:25,63,S,M,EESC,Engenharia Elétrica,5,0,Desenvolvedor,Sim,"9, 37, 63, 90",32,,4
+18/10/2017 21:04:01,93,S,F,EESC,Engenharia de Computação ,2,0,Desenvolvedor,Sim,"28, 93",13,,2
+18/10/2017 21:03:51,28,S,F,EESC,Engenharia Civil,2,0,Negócios,Não,"28, 93",13,,2
+09/11/2017 13:50:01,86,N,F,Poli,Engenharia Civil,5,0,Negócios,Não,,0,,1
+18/10/2017 21:06:49,4,S,F,Poli,Engenharia Química,2,0,Negócios,Não,,0,,1
+18/10/2017 21:10:17,84,S,F,Poli,Engenharia Mecânica,2,0,Nenhuma,Sim,"16, 84",7,,2
+18/10/2017 23:35:09,101,N,M,Poli,MBA em IoT,Pós-graduação,2,Desenvolvedor,Sim,,0,,1
+19/10/2017 00:04:02,100,N,M,Poli,Engenharia de Computação ,2,0,Desenvolvedor,Sim,"100, 116",3,,2
+19/10/2017 08:19:27,104,N,M,Poli,Engenharia Mecatrônica,3,0,Negócios,Não,,0,,1
+19/10/2017 09:44:40,52,N,M,Poli,Engenharia Elétrica,1,0,Nenhuma,Não,,0,,1
+19/10/2017 18:26:48,40,S,M,Poli,Engenharia Elétrica,1,0,Desenvolvedor,Sim,"40, 162",17,,2
+20/10/2017 14:26:15,78,S,M,Poli,Mestrado em Engenharia Elétrica,Pós-graduação,1,Negócios,Não,,0,,1
+21/10/2017 10:01:15,82,S,M,Poli,Bacharelado em Engenharia Civil,4,0,Desenvolvedor,Sim,"53, 58, 82, 141",24,,4
+25/10/2017 20:37:54,36,S,F,Poli,Engenharia,4,1,Desenvolvedor,Sim,,0,,1
+18/10/2017 21:03:22,162,S,M,Poli,Engenharia Elétrica,1,0,Desenvolvedor,Sim,"40, 162",17,,2
+18/10/2017 21:11:45,118,S,M,Poli,Engenharia Elétrica,2,0,Desenvolvedor,Sim,"62, 118, 123",27,,3
+19/10/2017 00:32:21,116,N,M,Poli,Engenharia de Computação ,2,0,Desenvolvedor,Sim,"100, 116",3,,2
+21/10/2017 15:14:16,11,N,M,Poli,Engenharia Mecânica,2,0,Desenvolvedor,Não,,0,,1
+21/10/2017 16:15:11,138,N,M,Poli,Engenharia Elétrica,3,2,Desenvolvedor,Não,,0,,1
+10/11/2017 10:44:29,64,N,M,FD,Direito,3,0,Negócios,Não,,0,,1
+18/10/2017 21:06:31,1,S,M,FEA,Bacharelado em Economia,5,0,Negócios,Sim,"1, 12, 149",1,,3
+18/10/2017 21:49:55,156,S,M,FEA,Bacharelado em Economia ,1,0,Negócios,Não,,0,,1
+18/10/2017 23:20:17,117,N,M,FEA,Bacharelado em Administração,1,0,Negócios,Não,,0,,1
+19/10/2017 10:59:04,12,S,M,FEA,Contabilidade,4,0,Negócios,Sim,"1, 12, 149",1,,3
+18/10/2017 21:01:56,149,S,F,FEA-RP,Bacharelado em Economia,5,0,Negócios,Sim,"1, 12, 149",1,,3
+18/10/2017 21:07:32,55,S,M,FEA-RP,Bacharelado em Administração,5,1,Negócios,Sim,"55, 124",25,,2
+18/10/2017 21:08:08,77,S,F,FEA-RP,Economia Empresarial e Controladoria,2,0,Negócios,Sim,"77, 151",29,,2
+18/10/2017 21:16:31,151,S,M,FEA-RP,Economia Empresarial e Controladoria,1,0,Negócios,Sim,"77, 151",29,,2
+18/10/2017 21:28:20,30,S,F,FEA-RP,Economia Empresarial e Controladoria ,1,0,Negócios,Não,,0,,1
+19/10/2017 07:44:23,56,S,M,FEA-RP,Economia Empresarial e Controladoria,2,2,Negócios,Não,,0,,1
+19/10/2017 09:48:44,129,S,M,FEA-RP,Economia Empresarial e Controladoria,2,1,Negócios,Não,,0,,1
+19/10/2017 14:41:05,124,S,M,FFCLRP,Informática Biomédica,3,0,Desenvolvedor,Não,"55, 124",25,,2
+19/10/2017 22:42:26,103,S,F,FFCLRP,Informática Biomédica,4,0,Desenvolvedor,Não,,0,,1
+18/10/2017 21:11:21,147,S,F,FFLCH,Letras,5,0,Negócios,Não,,0,,1
+18/10/2017 21:37:51,152,S,M,ICMC,Bacharelado em Ciência da Computação,4,0,Desenvolvedor,Não,,0,,1
+18/10/2017 21:00:19,16,S,F,IME,Bacharelado em Matemática ,3,0,Nenhuma,Sim,"16, 84",7,,2
+18/10/2017 21:00:31,105,S,M,IME,Bacharelado em Ciência da Computação,3,2,Desenvolvedor,Sim,"105, 160, 161",4,,3
+18/10/2017 21:00:41,125,S,M,IME,Bacharelado em Ciência da Computação,2,1,Desenvolvedor,Sim,"81, 125",30,,2
+18/10/2017 21:02:07,7,S,M,IME,Bacharelado em Ciência da Computação,2,1,Desenvolvedor,Sim,,0,,1
+18/10/2017 21:05:42,31,S,M,IME,Bacharelado em Ciência da Computação,4,0,Desenvolvedor,Não,,0,,1
+18/10/2017 21:06:26,25,S,M,IME,Mestrado em Ciência da Computação,1,0,Desenvolvedor,Não,,0,,1
+18/10/2017 21:07:18,13,S,M,IME,Bacharelado em Matemática Aplicada,1,0,Designer,Não,,0,,1
+18/10/2017 21:08:25,108,S,F,IME,Mestrado em Ciência da Computação,Pós-graduação,0,Desenvolvedor,Sim,"60, 68, 108, 110",26,,4
+18/10/2017 21:08:57,160,S,M,IME,Bacharelado em Ciência da Computação,3,1,Desenvolvedor,Sim,"105, 160, 161",4,,3
+18/10/2017 21:08:58,51,S,M,IME,Mestrado em Ciência da Computação,Pós-graduação,0,Desenvolvedor,Não,,0,,1
+18/10/2017 21:12:21,81,S,M,IME,Bacharelado em Ciência da Computação,2,0,Desenvolvedor,Sim,"81, 125",30,,2
+18/10/2017 21:12:44,110,S,M,IME,Doutorado em Ciência da Computação,Pós-graduação,0,Desenvolvedor,Sim,"60, 68, 108, 110",26,,4
+18/10/2017 21:14:00,65,S,M,IME,Bacharelado em Ciência da Computação,1,1,Desenvolvedor,Não,,0,,1
+18/10/2017 21:15:37,80,S,M,IME,Bacharelado em Ciência da Computação,3,0,Desenvolvedor,Não,,0,,1
+18/10/2017 21:17:24,68,S,M,IME,Doutorado em Ciência da Computação,Pós-graduação,1,Desenvolvedor,Sim,"60, 68, 108, 110",26,,4
+18/10/2017 21:28:09,60,S,M,IME,Doutorado em Ciência da Computação,Doutorado,1,Desenvolvedor,Sim,"60, 68, 108, 110",26,,4
+19/10/2017 09:19:04,8,S,M,IME,Bacharelado em Ciência da Computação,2,0,Desenvolvedor,Não,,0,,1
+19/10/2017 23:58:17,23,S,M,IME,Bacharelado em Ciência da Computação,1,1,Desenvolvedor,Não,"23, 74, 91, 158",11,,4
+20/10/2017 08:21:44,122,N,M,IME,Matemática Aplicada,5,0,Desenvolvedor,Não,,0,,1
+21/10/2017 15:15:21,50,S,M,IME,Bacharelado em Matemática Aplicada e Computacional,3,0,Desenvolvedor,Sim,"50, 163",23,,2
+21/10/2017 15:33:46,163,N,M,IME,Bacharelado em Matemática Aplicada e Computacional,3,0,Negócios,Sim,"50, 163",23,,2
+21/10/2017 17:00:23,140,S,M,IME,Bacharelado em Estatística,2,0,Desenvolvedor,Sim,"45, 57, 140,  165",20,,4
+21/10/2017 21:50:01,35,N,M,IME,Estatística,2,0,Desenvolvedor,Não,,0,,1
+22/10/2017 01:54:12,165,S,M,IME,Bacharelado em Ciência da Computação,4,0,Desenvolvedor,Sim,"45, 57, 140,  165",20,,4
+22/10/2017 12:58:59,57,S,F,IME,Bacharelado em Estatística,4,0,Desenvolvedor,Sim,"45, 57, 140,  165",20,,4
+23/10/2017 00:03:05,91,S,M,IME,Bacharelado em Ciência da Computação,1,0,Nenhuma,Não,"23, 74, 91, 158",11,,4
+23/10/2017 01:46:06,158,S,M,IME,Bacharelado em Ciência da Computação,1,0,Desenvolvedor,Sim,"23, 74, 91, 158",11,,4
+23/10/2017 01:48:23,74,S,M,IME,Bacharelado em Ciência da Computação,1,0,Desenvolvedor,Sim,"23, 74, 91, 158",11,,4
+21/10/2017 19:39:28,32,S,F,IQ,PECE,1,0,Quimica,Não,,0,,1
+09/11/2017 19:13:12,41,N,M,Não USP,,4,1,Negócios,Não,,0,FIAP,1
+11/11/2017 08:12:37,139,N,M,Não USP,,4,2,Negócios,Não,,0,Metodista de São Paulo,1
+11/11/2017 16:49:32,33,N,M,Não USP,,Pós-graduação,1,Negócios,Não,,0,UTFPR,1
+18/10/2017 20:59:59,135,S,M,Não USP,,2,0,Desenvolvedor,Sim,"99, 135",33,UFSC,2
+18/10/2017 21:03:34,94,S,M,Não USP,,1,0,Desenvolvedor,Sim,"70, 71, 83, 94",28,FAM - Faculdade das Américas,4
+18/10/2017 21:03:43,159,S,M,Não USP,,5,0,Desenvolvedor,Sim,"85, 119, 159",31,UNIFESP,3
+18/10/2017 21:04:24,148,S,F,Não USP,,Pós-graduação,0,Negócios,Não,,0,Universidade Federal do Paraná,1
+18/10/2017 21:05:14,92,S,F,Não USP,,4,5,Desenvolvedor,Não,,0,UFSCar,1
+18/10/2017 21:06:02,70,S,M,Não USP,,1,0,Desenvolvedor,Sim,"70, 71, 83, 94",28,FAM - Faculdade das Américas,4
+18/10/2017 21:06:32,88,S,M,Não USP,,4,0,Negócios,Não,,0,UNIFESP,1
+18/10/2017 21:07:41,83,S,M,Não USP,,1,0,Desenvolvedor,Sim,"70, 71, 83, 94",28,FAM - Faculdade das Américas,4
+18/10/2017 21:08:06,59,S,M,Não USP,,3,2,Desenvolvedor,Não,,0,Universidade Presbiteriana Mackenzie,1
+18/10/2017 21:10:48,85,S,F,Não USP,,3,0,Designer,Sim,"85, 119, 159",31,UNIFESP,3
+18/10/2017 21:13:51,119,S,M,Não USP,,5,0,Desenvolvedor,Sim,"85, 119, 159",31,ITA,3
+18/10/2017 21:16:36,71,S,M,Não USP,,1,0,Desenvolvedor,Sim,"70, 71, 83, 94",28,FAM - Faculdade das Américas,4
+18/10/2017 21:17:35,17,S,F,Não USP,,5,0,Designer,Não,,0,UNESP,1
+18/10/2017 21:20:09,128,S,M,Não USP,,3,2,Desenvolvedor,Não,,0,Faculdade de Tecnologia Flamingo,1
+18/10/2017 21:23:43,95,S,M,Não USP,,Pós-graduação,2,Negócios,Não,,0,FGV,1
+18/10/2017 21:27:46,75,S,F,Não USP,,1,1,Designer,Não,,0,Estácio,1
+18/10/2017 21:28:11,107,S,F,Não USP,,2,2,Desenvolvedor,Sim,"47, 107",22,FAM - Faculdade das Américas,2
+18/10/2017 21:28:40,113,S,F,Não USP,,Pós-graduação,0,Negócios,Sim,,0,FGV,1
+18/10/2017 21:37:04,47,S,M,Não USP,,1,0,Desenvolvedor,Sim,"47, 107",22,FAM - Faculdade das Américas,2
+18/10/2017 21:45:38,19,S,M,Não USP,,5,2,Desenvolvedor,Sim,"19, 27, 132",9,UNIMEP,3
+18/10/2017 22:02:58,123,S,M,Não USP,,4,0,Negócios,Sim,"62, 118, 123",27,PUC,3
+18/10/2017 22:13:38,43,S,M,Não USP,,2,2,Designer,Não,"43, 102",18,Faculdade Melies,2
+18/10/2017 22:17:51,112,S,F,Não USP,,Pós-graduação,2,Comunicação digital,Não,,0,SENAC,1
+18/10/2017 22:17:54,14,S,M,Não USP,,2,5,Desenvolvedor,Não,,0,ESPM,1
+18/10/2017 22:18:39,132,S,M,Não USP,,4,0,Designer,Sim,"19, 27, 132",9,UNIMEP,3
+18/10/2017 22:21:21,27,S,M,Não USP,,4,1,Desenvolvedor,Sim,"19, 27, 132",9,UNIMEP,3
+18/10/2017 23:26:14,157,N,M,Não USP,,2,2,Designer,Sim,"130, 157",5,Fatec,2
+18/10/2017 23:27:55,130,N,M,Não USP,,2,0,Desenvolvedor,Sim,"130, 157",5,UNIFESP,2
+18/10/2017 23:31:28,87,N,M,Não USP,,2,2,Negócios,Não,,0,Fatec,1
+18/10/2017 23:42:42,69,N,M,Não USP,,5,2,Desenvolvedor,Não,,0,IFSP,1
+18/10/2017 23:43:51,137,N,M,Não USP,,5,1,Desenvolvedor,Não,,0,UNINOVE - Universidade Nove de Julho,1
+18/10/2017 23:46:09,146,S,F,Não USP,,5,1,Desenvolvedor,Não,,0,UAM ,1
+18/10/2017 23:51:46,72,N,M,Não USP,,2,5,Negócios,Não,"18, 72, 111",8,Universidade Presbiteriana Mackenzie,3
+18/10/2017 23:58:18,18,S,F,Não USP,,2,1,Negócios,Não,"18, 72, 111",8,Universidade Presbiteriana Mackenzie,3
+19/10/2017 00:18:17,39,S,F,Não USP,,5,0,,Não,,0,Universidade São Judas Tadeu,1
+19/10/2017 08:03:37,115,N,F,Não USP,,3,0,Desenvolvedor,Sim,,0,Universidade Presbiteriana Mackenzie,1
+19/10/2017 08:05:37,131,N,M,Não USP,,Pós-graduação,2,Negócios,Não,,0,FGV,1
+19/10/2017 09:51:00,29,N,M,Não USP,,2,5,Desenvolvedor,Sim,"29, 49, 61",14,FAM - Faculdade das Américas,3
+19/10/2017 09:55:47,49,N,M,Não USP,,2,1,Negócios,Sim,"29, 49, 61",14,FAM - Faculdade das Américas,3
+19/10/2017 09:55:55,54,N,M,Não USP,,Pós-graduação,2,Desenvolvedor,Não,,0,,1
+19/10/2017 10:02:21,61,N,M,Não USP,,1,0,Desenvolvedor,Sim,"29, 49, 61",14,FAM - Faculdade das Américas,3
+19/10/2017 11:13:52,42,N,M,Não USP,,Pós-graduação,1,Desenvolvedor,Não,,0,ESPM,1
+19/10/2017 11:56:41,154,N,M,Não USP,,Pós-graduação,2,Negócios,Não,,0,UNIP,1
+19/10/2017 12:04:59,155,S,M,Não USP,,3,2,Designer,Sim,"2, 20, 155",10,Universidade São Judas Tadeu,3
+19/10/2017 12:05:58,143,N,M,Não USP,,3,1,Desenvolvedor,Não,,0,Universidade Anhembi Morumbi,1
+19/10/2017 12:13:28,22,N,M,Não USP,,2,0,Desenvolvedor,Não,,0,FAM - Faculdade das Américas,1
+19/10/2017 14:29:30,98,N,M,Não USP,,2,1,Desenvolvedor,Não,,0,Fatec,1
+19/10/2017 17:07:46,120,S,F,Não USP,,3,0,Desenvolvedor,Não,,0,Universidade Presbiteriana Mackenzie,1
+19/10/2017 18:55:19,20,S,F,Não USP,,1,1,Designer,Sim,"2, 20, 155",10,Anhanguera,3
+19/10/2017 19:43:18,6,N,F,Não USP,,Pós-graduação,0,Negócios,Não,,0,FEI,1
+19/10/2017 19:48:10,144,S,F,Não USP,,Pós-graduação,0,Designer,Não,,0,IUAV,1
+19/10/2017 19:57:14,2,S,M,Não USP,,3,0,Desenvolvedor,Sim,"2, 20, 155",10,UNIP,3
+19/10/2017 20:35:06,79,S,M,Não USP,,2,1,Negócios,Não,,0,Centro Universitário ENIAC,1
+19/10/2017 21:07:37,127,N,M,Não USP,,Pós-graduação,0,Desenvolvedor,Não,,0,Universidade Estácio de Sá ,1
+19/10/2017 23:40:56,96,N,M,Não USP,,Pós-graduação,0,Negócios,Não,,0,FIAP,1
+20/10/2017 09:27:15,134,N,M,Não USP,,3,2,Desenvolvedor,Sim,"134, 150",6,Fatec,2
+20/10/2017 09:36:41,142,N,F,Não USP,,5,1,Desenvolvedor,Não,,0,Fatec,1
+20/10/2017 10:54:11,150,N,M,Não USP,,Pós-graduação,1,Negócios,Sim,"134, 150",6,Fatec,2
+20/10/2017 11:59:58,145,S,F,Não USP,,2,0,Desenvolvedor,Sim,"46, 76, 109, 145",21,Fatec,4
+20/10/2017 12:04:33,46,S,F,Não USP,,2,0,Desenvolvedor,Sim,"46, 76, 109, 145",21,Fatec,4
+20/10/2017 19:04:10,114,S,F,Não USP,,2,0,Designer,Não,,0,Universidade São Judas Tadeu,1
+20/10/2017 19:40:20,153,N,M,Não USP,,2,5,Desenvolvedor,Não,,0,Fatec,1
+20/10/2017 19:46:38,97,N,M,Não USP,,2,0,Desenvolvedor,Não,,0,Universidade São Judas Tadeu,1
+20/10/2017 21:23:29,126,N,M,Não USP,,2,0,Designer,Sim,"44, 126",19,Universidade Anhembi Morumbi,2
+20/10/2017 22:16:33,44,N,M,Não USP,,2,1,Desenvolvedor,Sim,"44, 126",19,Universidade São Judas Tadeu,2
+20/10/2017 23:37:51,111,N,M,Não USP,,2,1,Designer,Sim,"18, 72, 111",8,ETEC Martin Luther King ,3
+21/10/2017 10:10:44,58,S,F,Não USP,,3,0,Designer,Sim,"53, 58, 82, 141",24,UNESP,4
+21/10/2017 12:03:15,53,S,M,Não USP,,1,0,Negócios,Sim,"53, 58, 82, 141",24,UFABC,4
+21/10/2017 15:27:25,141,S,M,Não USP,,5,0,Desenvolvedor,Sim,"53, 58, 82, 141",24,Fatec,4
+21/10/2017 17:11:13,45,S,M,Não USP,,1,0,Desenvolvedor,Sim,"45, 57, 140,  165",20,,4
+21/10/2017 18:11:18,102,S,M,Não USP,,3,1,Desenvolvedor,Sim,"43, 102",18,Centro Universitário Senac,2
+21/10/2017 23:56:09,136,N,M,Não USP,,Pós-graduação,1,Desenvolvedor,Não,,0,FIAP,1
+22/10/2017 12:07:37,38,N,M,Não USP,,2,0,Desenvolvedor,Não,,0,Fatec,1
+22/10/2017 16:22:04,121,N,M,Não USP,,1,0,Desenvolvedor,Não,,0,Universidade Presbiteriana Mackenzie,1
+22/10/2017 19:41:53,66,N,M,Não USP,,1,0,Desenvolvedor,Não,,0,Faccamp,1
+22/10/2017 21:15:54,73,S,F,Não USP,,1,0,Desenvolvedor,Não,,0,FIAP,1
+22/10/2017 21:24:06,3,S,F,Não USP,,1,1,Desenvolvedor,Sim,"3, 15",15,FIAP ,2
+22/10/2017 21:30:29,15,S,M,Não USP,,2,0,Desenvolvedor,Sim,"3, 15",15,Universidade Presbiteriana Mackenzie,2
+24/10/2017 20:58:01,76,S,F,Não USP,,2,1,Desenvolvedor,Sim,"46, 76, 109, 145",21,Fatec,4
+24/10/2017 20:59:17,109,S,F,Não USP,,2,1,Desenvolvedor,Sim,"46, 76, 109, 145",21,Fatec,4
