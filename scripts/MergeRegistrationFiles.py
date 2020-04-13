@@ -2,6 +2,7 @@ import csv
 
 selectedColumns = [
     'Datetime',
+    'Edition',
     'id',
     'IsSelected',
     'Gender',
@@ -13,33 +14,61 @@ selectedColumns = [
     'HasTeam',
     'TeamMembers',
     'TeamId',
-    'University',
+    # 'University',
     'TeamSize'
 ]
 
 editions = ['2016.1', '2016.2', '2017.1', '2017.2', '2018.1']
 
-def getHeaderMap(header: list) -> dict:
+
+def getHeaderMap(header: list, edition: str) -> dict:
+    """
+    Maps the index of the element in the selectedColumns list
+    :param header: list of the columns in the header of the file
+    :param edition: edition of the file
+    :return: dict column name -> index
+    """
     headerMap = {}
     for i in range(len(header)):
         if header[i] in selectedColumns:
             headerMap[header[i]] = i
 
-    if set(headerMap.keys()) != set(selectedColumns):
-        raise RuntimeError('Could not get all required columns from header=[{header}]'.format(header=header))
+    headerMap['Edition'] = edition
+
+    setHeaderMap = set(headerMap.keys())
+    setSelectedColumns = set(selectedColumns)
+
+    if setHeaderMap != setSelectedColumns:
+        missingColumns = setSelectedColumns.difference(setHeaderMap)
+        raise RuntimeError('Header is missing the following columns [{columns}]'.format(columns=missingColumns))
 
     return headerMap
 
 def buildFormattedRow(headerMap: dict, row: list) -> list:
+    """
+    Build the row according to the selectedColumns list
+    :rtype: list
+    :param headerMap:
+    :param row: a row in the file
+    :return: new row formatted according to selectedColumns
+    """
     formattedRow = []
 
     for column in selectedColumns:
-        columnIndex = headerMap[column]
-        formattedRow.append(row[columnIndex])
-
+        if column == 'Edition':
+            formattedRow.append(headerMap[column])
+        else:
+            columnIndex = headerMap[column]
+            formattedRow.append(row[columnIndex])
     return formattedRow
 
-def openFile(edition: str) -> list:
+
+def readAndFormatFile(edition: str) -> list:
+    """
+    Opens the file and read it to build the new file
+    :param edition: edition of the file
+    :return: list of formatted rows
+    """
     directory = 'data/{edition}'.format(edition=edition)
     filePath = '../{directory}/{edition}-FormattedRegistrationFile.csv'.format(directory=directory, edition=edition)
 
@@ -50,14 +79,28 @@ def openFile(edition: str) -> list:
 
         header = next(csv_reader)
 
-        headerMap = getHeaderMap(header)
+        headerMap = getHeaderMap(header, edition)
 
         for row in csv_reader:
             newRows.append(buildFormattedRow(headerMap, row))
 
     return newRows
 
+
+def writeFile():
+    filename = '../data/AllRegistrationsFile.csv'
+    newFile = open(filename, 'w')
+
+    with newFile:
+        csv_writer = csv.writer(newFile)
+        csv_writer.writerow(selectedColumns)
+
+        for edition in editions:
+            csv_writer.writerows(readAndFormatFile(edition))
+
+
 def main():
-    openFile(editions[0])
+    writeFile()
+
 
 main()
